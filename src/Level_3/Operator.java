@@ -1,6 +1,7 @@
 package Level_3;
 
 public enum Operator {
+    //enum의 인스턴스메서드에 calculator객체를 매개변수로 받아 calculator의 메서드를 활용하고 그결과를 다시 calculator의 arraylist로 돌려줍니다.
     PLUS{
         @Override
         public void run(Calculator<?> calculator) {
