@@ -6,4 +6,4 @@
 
 
 
-3단계 과제 :  calculator는 정보들을 처리하는 class. ㅒOperator클래스는 계산만을 하는class로 방향을 잡았습니다. 
+3단계 과제 :  calculator는 정보들을 처리하는 class, Operator클래스는 계산만을 하는class로 방향을 잡아 추후 기능의 확장이 필요할 때 각 클래스만 수정하면 되도록 구현했습니다.
